@@ -292,3 +292,61 @@ text-decoration: none;
 footer nav a:hover {
 color: white;
 }
+
+/*
+QUESTÕES DA ATIVIDADE
+Qual é a função do display: flex?
+
+O display: flex transforma um elemento em um
+container Flexbox. Ele permite organizar os
+elementos dentro dele de maneira mais fácil.
+
+Qual é a diferença entre flex-direction: row
+e flex-direction: column?
+
+O row organiza os elementos em uma linha,
+um ao lado do outro.
+
+O column organiza os elementos em uma coluna,
+um embaixo do outro.
+
+Para que serve justify-content?
+
+Serve para organizar os elementos no eixo
+principal do container Flexbox.
+
+Para que serve align-items?
+
+Serve para alinhar os elementos no eixo
+contrário ao eixo principal.
+
+Qual é a função do flex-wrap: wrap?
+
+Permite que os elementos que não couberem
+na mesma linha passem para uma nova linha.
+
+Qual é a diferença entre gap e margin?
+
+O gap cria espaço entre os elementos de um
+container Flexbox.
+
+A margin cria espaço ao redor de um elemento.
+
+Identifique três elementos da sua página que
+são containers Flexbox e diga quais elementos
+eles organizam.
+
+O header é um container Flexbox e organiza
+o nome da plataforma, o menu e o botão Entrar.
+
+A .lista-cursos é um container Flexbox e
+organiza os oito cards de cursos.
+
+A .lista-beneficios é um container Flexbox
+e organiza os quatro benefícios.
+
+Também existem outros containers Flexbox,
+como os nav, a área de destaque e os botões.
+
+==================================================
+*/
